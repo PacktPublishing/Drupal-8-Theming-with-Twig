@@ -18,7 +18,7 @@ This book covers the following exciting features: <First 5 What you'll learn poi
 
 If you feel this book is for you, get your [copy](https://www.amazon.com/dp/10DigitISBN) today!
 
-<a href="https://prod.packtpub.com/in/web-development/drupal-8-theming-twig?utm_source=github&utm_medium=repository&utm_campaign=9781782168737"><img src="https://prod.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/b/0/b00672_mockupcover_normal_.jpg" alt="https://www.packtpub.com/" border="5" /></a>
+<a href="https://prod.packtpub.com/in/web-development/drupal-8-theming-twig?utm_source=github&utm_medium=repository&utm_campaign=9781782168737"><img src="https://raw.githubusercontent.com/PacktPublishing/GitHub/master/GitHub.png" alt="https://www.packtpub.com/" border="5" /></a>
 
 ## Instructions and Navigations
 All of the code is organized into folders. For example, Chapter02.
