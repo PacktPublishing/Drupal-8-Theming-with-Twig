@@ -4,7 +4,7 @@
 
 This is the code repository for [Drupal 8 Theming with Twig](https://prod.packtpub.com/in/web-development/drupal-8-theming-twig?utm_source=github&utm_medium=repository&utm_campaign=9781782168737), published by Packt.
 
-****
+**Master Drupal 8's new Twig templating engine to create fun and fast websites with simple steps to help you move from concept to completion**
 
 ## What is this book about?
 Drupal 8 is an open source content management system and powerful framework that helps deliver great websites to individuals and organizations, including non-profits, commercial, and government around the globe. This new release has been built on top of object-oriented PHP and includes more than a handful of improvements such as a better user experience, cleaner HTML5 markup, a new templating engine called Twig, multilingual capabilities, new configuration management, and effortless content authoring. Drupal 8 will quickly become the new standard for deploying content to both the web and mobile applications. However, with so many new changes, it can quickly become overwhelming knowing where to start and how to quickly.
