@@ -24,6 +24,7 @@ If you feel this book is for you, get your [copy](https://www.amazon.com/dp/1782
 All of the code is organized into folders. For example, Chapter02.
 
 The code will look like the following:
+
 name: Tweet
 type: theme
 description: 'A Twitter Bootstrap starter theme'
