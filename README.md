@@ -2,19 +2,19 @@
 
 <a href="https://prod.packtpub.com/in/web-development/drupal-8-theming-twig?utm_source=github&utm_medium=repository&utm_campaign=9781782168737"><img src="https://prod.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/b/0/b00672_mockupcover_normal_.jpg" alt="Book Name" height="256px" align="right"></a>
 
-This is the code repository for [Book Name](Packt UTM URL of the Book), published by Packt.
+This is the code repository for [Drupal 8 Theming with Twig](https://prod.packtpub.com/in/web-development/drupal-8-theming-twig?utm_source=github&utm_medium=repository&utm_campaign=9781782168737), published by Packt.
 
-**Subtitle from EPIC**
+****
 
 ## What is this book about?
-First Paragraph from the Long Description
+Drupal 8 is an open source content management system and powerful framework that helps deliver great websites to individuals and organizations, including non-profits, commercial, and government around the globe. This new release has been built on top of object-oriented PHP and includes more than a handful of improvements such as a better user experience, cleaner HTML5 markup, a new templating engine called Twig, multilingual capabilities, new configuration management, and effortless content authoring. Drupal 8 will quickly become the new standard for deploying content to both the web and mobile applications. However, with so many new changes, it can quickly become overwhelming knowing where to start and how to quickly.
 
-This book covers the following exciting features: <First 5 What you'll learn points>
-* Learn how to manage users, groups, and permissions
-* Encrypt and decrypt disks with Linux Unified Key Setup /Luks
-* Setup SSH for remote access, and connect it to other nodes
-* Understand how to add, remove, and search for packages
-* Use NFS and Samba to share directories with other users
+This book covers the following exciting features: 
+* Navigate the Drupal 8 Admin interface
+* Build custom block layouts with reusable and fieldable blocks
+* Create subthemes based on the Bartik and Classy base themes
+* Construct a responsive theme with Twitter Bootstrap
+* Work with the new Twig PHP templating engine
 
 If you feel this book is for you, get your [copy](https://www.amazon.com/dp/10DigitISBN) today!
 
@@ -24,15 +24,14 @@ If you feel this book is for you, get your [copy](https://www.amazon.com/dp/10Di
 All of the code is organized into folders. For example, Chapter02.
 
 The code will look like the following:
-```
-if (test expression)
-{
-  Statement upon condition is true
-}
-```
+name: Tweet
+type: theme
+description: 'A Twitter Bootstrap starter theme'
+core: 8.x
+base theme: false
 
 **Following is what you need for this book:**
-Copy and paste the Audience section from the EPIC.
+This book is intended for front-end developers, designers, and anyone who is generally interested in learning all the new features of Drupal 8 theming. Discover what has changed from Drupal 7 to Drupal 8 and immerse yourself in the new Twig PHP templating engine. Familiarity with HTML5, CSS3, JavaScript, and the Drupal Admin interface would be helpful. Prior experience with setting up and configuring a standalone development environment is required as we will be working with PHP and MySQL.
 
 With the following software and hardware list you can run all code files present in the book (Chapter 1-15).
 
@@ -40,21 +39,10 @@ With the following software and hardware list you can run all code files present
 
 | Chapter  | Software required                   | OS required                        |
 | -------- | ------------------------------------| -----------------------------------|
-| 1        | R version 3.3.0                     | Windows, Mac OS X, and Linux (Any) |
-| 2        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 3        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 4        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 5        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 6        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 7        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 8        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 9        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 10        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-|11        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 12        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 13        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 14        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 15        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
+| All      | AMP                                | Windows, Mac OS X, and Linux (Any) |
+| All      | MAMP                               | Windows, Mac OS X, and Linux (Any) |
+| All      | Rstudio Desktop 0.99.903           | Windows, Mac OS X, and Linux (Any) |
+
 
 
 We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](Graphics Bundle Link).
