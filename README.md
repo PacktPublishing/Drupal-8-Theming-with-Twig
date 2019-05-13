@@ -50,7 +50,7 @@ With the following software and hardware list you can run all code files present
 
 
 
-## Get to Know the Author(s)
+## Get to Know the Author
 **Chaz Chumley**
 ver since Chaz can remember, he has been picking up a crayon, a pencil, a pen, or a computer, whether to draw a picture, write a poem, share an article, or develop the next great website. Looking back at these qualities, it's the reason why he chose to use those passions to give back to the open source community. His journey has opened doors to great experiences as a consultant, instructor, trainer, author, web developer, technical architect, Drupalist, and most importantly, a father. However, he could be none of these without first being a student and learning from life, love, and a passion for education, community development, and of course, science and technology.
 The sum of these things has allowed Chaz to share his experiences as an active member of the Drupal community, having participated in developing Lynda.com Drupal training videos, authoring multiple Drupal books for Packt Publishing, and giving back his knowledge by contributing numerous articles and presentations at NYCCamp, BadCamp, and DrupalCon, and bringing top-notch Drupal expertise to his clients' work.
