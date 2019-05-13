@@ -24,12 +24,14 @@ If you feel this book is for you, get your [copy](https://www.amazon.com/dp/1782
 All of the code is organized into folders. For example, Chapter02.
 
 The code will look like the following:
-
+```
 name: Tweet
 type: theme
 description: 'A Twitter Bootstrap starter theme'
 core: 8.x
 base theme: false
+```
+
 
 **Following is what you need for this book:**
 This book is intended for front-end developers, designers, and anyone who is generally interested in learning all the new features of Drupal 8 theming. Discover what has changed from Drupal 7 to Drupal 8 and immerse yourself in the new Twig PHP templating engine. Familiarity with HTML5, CSS3, JavaScript, and the Drupal Admin interface would be helpful. Prior experience with setting up and configuring a standalone development environment is required as we will be working with PHP and MySQL.
