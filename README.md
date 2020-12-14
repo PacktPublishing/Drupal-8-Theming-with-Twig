@@ -1,3 +1,8 @@
+## $5 Tech Unlocked 2021!
+[Buy and download this Book for only $5 on PacktPub.com](https://www.packtpub.com/product/drupal-8-theming-with-twig/9781782168737)
+-----
+*If you have read this book, please leave a review on [Amazon.com](https://www.amazon.com/gp/product/1782168737).     Potential readers can then use your unbiased opinion to help them make purchase decisions. Thank you. The $5 campaign         runs from __December 15th 2020__ to __January 13th 2021.__*
+
 # Drupal 8 Theming with Twig
 
 <a href="https://prod.packtpub.com/in/web-development/drupal-8-theming-twig?utm_source=github&utm_medium=repository&utm_campaign=9781782168737"><img src="https://prod.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/b/0/b00672_mockupcover_normal_.jpg" alt="Book Name" height="256px" align="right"></a>
